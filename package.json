@@ -1,16 +1,27 @@
 {
-     "name": "strawberry-matcha-theme",
-     "displayName": "Strawberry Matcha",
-     "version": "1.0.0",
-     "engines": { "vscode": "^1.60.0" },
-     "categories": ["Themes"],
-     "contributes": {
-       "themes": [
-         {
-           "label": "Strawberry Matcha Dark",
-           "uiTheme": "vs-dark",
-           "path": "./themes/strawberry-matcha-dark-color-theme.json"
-         }
-       ]
-     }
-   }
+  "name": "strawberry-matcha-theme",
+  "displayName": "Strawberry Matcha",
+  "description": "A dark VS Code theme inspired by strawberry pink and matcha green.",
+  "version": "1.0.0",
+  "publisher": "tipandtale",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vidella/strawberry-matcha-dark-theme.git"
+  },
+  "license": "MIT",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Strawberry Matcha Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/strawberry-matcha-dark-color-theme.json"
+      }
+    ]
+  }
+}
