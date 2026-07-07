@@ -2,23 +2,15 @@
 
 A cozy dark VS Code theme inspired by strawberry pink and matcha green, designed for beautiful and comfortable coding.
 
+
+![Strawberry Matcha Dark Preview](images/preview.png)
+
 ## ✨ Features
 
 - 🍓 Soft strawberry pink syntax highlighting
 - 🍵 Matcha green accents
 - 🌙 Dark background for reduced eye strain
 - 💻 Optimized for everyday coding
-
-## 📸 Preview
-
-> <img width="1141" height="855" alt="Screenshot 2026-07-07 at 15 05 44" src="https://github.com/user-attachments/assets/903ea698-6e1c-4879-922b-4174c0d2a6f0" />
-
-## ✨ Features
-
-- 🍓 Strawberry pink accents
-- 🍵 Matcha green highlights
-- 🌙 Dark background
-- 💻 Comfortable for long coding sessions
 
 ## 📦 Installation
 
@@ -27,13 +19,15 @@ A cozy dark VS Code theme inspired by strawberry pink and matcha green, designed
 3. Click **Install**.
 4. Select **Strawberry Matcha Dark** from Color Theme.
 
----
+## 🔗 Links
 
-Made with 💚 by tipandtale.
-
-Marketplace:
-https://marketplace.visualstudio.com/items?itemName=tipandtale.tipandtale-strawberry-matcha-dark
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=tipandtale.tipandtale-strawberry-matcha-dark)
+- [GitHub Repository](https://github.com/vidella/strawberry-matcha-dark-theme)
 
 ---
 
-If you enjoy this theme, consider ⭐ starring the repository!
+Made with 🍓 by tipandtale.
+
+---
+
+If you enjoy this theme, consider ⭐ starring the theme!

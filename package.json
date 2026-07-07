@@ -1,6 +1,6 @@
 {
-  "name": "strawberry-matcha-theme",
-  "displayName": "Strawberry Matcha",
+  "name": "tipandtale-strawberry-matcha-dark",
+  "displayName": "Strawberry Matcha Dark",
   "description": "A dark VS Code theme inspired by strawberry pink and matcha green.",
   "version": "1.0.0",
   "publisher": "tipandtale",
@@ -10,6 +10,7 @@
   "categories": [
     "Themes"
   ],
+
   "repository": {
     "type": "git",
     "url": "https://github.com/vidella/strawberry-matcha-dark-theme.git"
