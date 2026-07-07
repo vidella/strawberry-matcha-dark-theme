@@ -1,0 +1,16 @@
+{
+     "name": "strawberry-matcha-theme",
+     "displayName": "Strawberry Matcha",
+     "version": "1.0.0",
+     "engines": { "vscode": "^1.60.0" },
+     "categories": ["Themes"],
+     "contributes": {
+       "themes": [
+         {
+           "label": "Strawberry Matcha Dark",
+           "uiTheme": "vs-dark",
+           "path": "./themes/strawberry-matcha-dark-color-theme.json"
+         }
+       ]
+     }
+   }
