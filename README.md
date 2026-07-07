@@ -1,6 +1,6 @@
 # 🍓 Strawberry Matcha Dark
 
-A VS Code theme inspired by the soft contrast of strawberry pink and matcha green. Designed for developers who love cozy, aesthetic workspaces while maintaining readability during long coding sessions.
+A cozy dark VS Code theme inspired by strawberry pink and matcha green, designed for beautiful and comfortable coding.
 
 ## ✨ Features
 
