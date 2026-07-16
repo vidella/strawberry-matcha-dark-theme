@@ -24,7 +24,7 @@
 		"editorCursor.foreground": "#f8dbe4",
 		"editorIndentGuide.activeBackground1": "#d5e3ee66",
 		"editorIndentGuide.background1": "#d5e3ee22",
-		"editorLineNumber.activeForeground": "#d5e3ee",
+		"editorLineNumber.activeForeground": "#f4d4e0",
 		"editorLineNumber.foreground": "#6f7780",
 		"focusBorder": "#f8dbe4",
 		"input.background": "#191919",
@@ -36,7 +36,7 @@
 		"list.highlightForeground": "#f8dbe4",
 		"list.hoverBackground": "#d5e3ee22",
 		"list.inactiveSelectionBackground": "#d5e3ee33",
-		"list.inactiveSelectionForeground": "#d5e3ee",
+		"list.inactiveSelectionForeground": "#f4d4e0",
 		"panel.background": "#191919",
 		"panel.border": "#2a2a2a",
 		"panelTitle.activeForeground": "#f8dbe4",
@@ -52,24 +52,24 @@
 		"statusBar.debuggingBackground": "#d5e3ee",
 		"statusBar.debuggingForeground": "#191919",
 		"statusBar.foreground": "#191919",
-		"statusBar.noFolderBackground": "#d5e3ee",
+		"statusBar.noFolderBackground": "#f4d4e0",
 		"statusBarItem.hoverBackground": "#edcbd6",
 		"tab.activeBackground": "#f8dbe4",
 		"tab.activeBorder": "#f8dbe4",
 		"tab.activeForeground": "#191919",
 		"tab.border": "#2a2a2a",
 		"tab.hoverBackground": "#232323",
-		"tab.hoverForeground": "#d5e3ee",
+		"tab.hoverForeground": "#f4d4e0",
 		"tab.inactiveBackground": "#191919",
 		"tab.inactiveForeground": "#c9aeb7",
 		"terminal.background": "#191919",
 		"terminal.foreground": "#eef6fb",
-		"terminalCursor.foreground": "#d5e3ee",
+		"terminalCursor.foreground": "#f4d4e0",
 		"titleBar.activeBackground": "#191919",
 		"titleBar.activeForeground": "#f8dbe4",
 		"titleBar.border": "#2a2a2a",
 		"titleBar.inactiveBackground": "#191919",
-		"titleBar.inactiveForeground": "#9fb4c8",
+		"titleBar.inactiveForeground": "#f4d4e0",
 		//"actionBar.toggledBackground": "#f8dbe466",
 		//"activeSessionView.background": "#191919",
 		//"activeSessionView.foreground": "#f8dbe4",
@@ -986,7 +986,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#BFDDF2"
+				"foreground": "#f4d4e0"
 			}
 		},
 		{
@@ -1041,7 +1041,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#BFDDF2"
+				"foreground": "#f4d4e0"
 			}
 		},
 		{
